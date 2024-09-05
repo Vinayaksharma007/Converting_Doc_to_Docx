@@ -1,24 +1,24 @@
-# Converting_Doc_to_Docx
+**# Converting_Doc_to_Docx**
 This script converts .doc files to .docx format using Microsoft Word via the comtypes library. It automates the process of converting older Microsoft Word documents to the modern .docx format.
 
-Requirements
+**Requirements**
 Python: Ensure you have Python installed (preferably Python 3.6 or higher).
 Microsoft Word: The script requires Microsoft Word to be installed on your system.
 comtypes: This library is used to interact with COM objects, like Microsoft Word. Install it using pip.
 
-Installation
+**Installation**
 Install comtypes: You can install the comtypes library using pip. Open your command prompt or terminal and run:
 
-pip install comtypes
-
+**pip install comtypes**
 Microsoft Word: Ensure that Microsoft Word is installed on your system, as the script uses it to perform the conversion.
 
 
-Script Configuration:
+**Script Configuration:**
 
 Save the script to a file, e.g., convert_doc_to_docx.py.
 Replace the doc_file_path in the script with the path to the .doc file you want to convert.
-Running the Script:
+
+**Running the Script:**
 
 Open your command prompt or terminal.
 
